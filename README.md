@@ -46,20 +46,19 @@ python wifi_scanner.py
 ## Example Output
 
 ======================================================================
- Wi-Fi Network Scanner
- Only scan networks you own or are allowed to use!
+Wi-Fi Network Scanner (API Edition)
+Scan networks you own or are allowed to use!
 ======================================================================
-[*] My IP address : 192.168.1.5
+[*] My IP address : 10.87.72.139
 [*] Pinging 254 addresses, please wait...
-[*] Found 4 device(s) on the network.
+[*] Found 3 device(s) on the network.
 
-IP Address       MAC Address          Vendor                 Hostname
+IP Address       MAC Address         Vendor                    Hostname
+-------------------------------------------------------------------------------
+10.87.72.14      de:75:f5:10:2e:e7   Randomized (Private MAC)  
+10.87.72.71      50:5a:65:f6:33:0f   AzureWave Technology Inc. 
+10.87.72.183     2e:8c:e2:4a:dd:f4   Randomized (Private MAC)  
 --------------------------------------------------------------------------------
-192.168.1.1      a4:b1:c2:d3:e4:f5    TP-Link Technologies   router.local
-192.168.1.5      11:22:33:44:55:66    Intel Corporate        my-laptop      
-192.168.1.12     aa:bb:cc:dd:ee:ff    Apple, Inc.            iphone.local
-192.168.1.20     99:88:77:66:55:44    Samsung Electronics    galaxy-tab
----------------------------------------------------------------------------------
 
 ## How It Works (simple explanation)
 
