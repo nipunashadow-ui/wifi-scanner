@@ -45,20 +45,8 @@ python wifi_scanner.py
 
 ## Example Output
 
-======================================================================
-Wi-Fi Network Scanner (API Edition)
-Scan networks you own or are allowed to use!
-======================================================================
-[*] My IP address : 10.87.72.139
-[*] Pinging 254 addresses, please wait...
-[*] Found 3 device(s) on the network.
+<img width="677" height="255" alt="image" src="https://github.com/user-attachments/assets/c91df468-fbd3-416a-9bdf-d9b9a85398e7" />
 
-IP Address       MAC Address         Vendor                    Hostname
--------------------------------------------------------------------------------
-10.87.72.14      de:75:f5:10:2e:e7   Randomized (Private MAC)  
-10.87.72.71      50:5a:65:f6:33:0f   AzureWave Technology Inc. 
-10.87.72.183     2e:8c:e2:4a:dd:f4   Randomized (Private MAC)  
---------------------------------------------------------------------------------
 
 ## How It Works (simple explanation)
 
