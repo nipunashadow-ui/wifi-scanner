@@ -1,0 +1,9 @@
+# Optional: lets the scanner show MANY more device vendors (full database).
+# The program already works without it thanks to a small built-in vendor list.
+#
+# NOTE: this package depends on 'aiohttp', which currently has no prebuilt
+# wheel for very new Python versions (e.g. 3.15) and will fail to build.
+# If install fails, just skip it - the scanner still runs fine.
+#
+# Recommended Python for this dependency: 3.8 - 3.13
+mac-vendor-lookup>=0.1.12
